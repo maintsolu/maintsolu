@@ -1665,13 +1665,15 @@ table thead tr th {
 	width: 100%; }
 
 .promo__img-1 {
-	box-shadow: -5px 10px 25px rgba(8, 15, 26, 0.3); }
+	box-shadow: -1px 2px 25px rgba(8, 15, 26, 0.3);
+	}
 
 .promo__img-2 {
-	box-shadow: -30px 30px 40px rgba(22, 19, 62, 0.2);
+	box-shadow: 1px 1px 40px rgba(22, 19, 62, 0.2);
 	position: absolute;
 	top: -74px;
-	right: 30px; }
+	right: 120px;
+	}
 
 @media only screen and (max-width: 575px) {
 	.promo__img {
