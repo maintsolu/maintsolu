@@ -1472,8 +1472,9 @@ table thead tr th {
 				} }
 	.hero__title {
 		line-height: 1.3;
-		margin-bottom: 56px;
-		font-size: 4.5rem; }
+		margin-bottom: 30px;
+		font-size: 4.5rem;
+		}
 		.hero__title--1 {
 			color: #fff;
 			font-size: 5.8rem; }
