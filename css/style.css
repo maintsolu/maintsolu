@@ -281,7 +281,7 @@ section.section-wrap.promo.section-wrap--pt-180 {
 	padding: 0 50px; }
 	@media only screen and (max-width: 767px) {
 		.container-semi-fluid {
-			padding: 21px 20px 0 !important;
+			padding: 21px 20px  !important;
 			} }
 
 .main-container {
